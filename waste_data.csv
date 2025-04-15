@@ -1,11 +1,11 @@
 waste_id,date,menu_item,waste_category,quantity_wasted,unit,cost_of_waste
-7473,2025-01-17,Burger,Customer Return,8,kg,12.25
-2058,2025-01-14,Pasta,Customer Return,11,kg,14.08
-7970,2025-02-24,Pizza,Preparation Waste,7,liters,11.52
-9018,2025-03-15,Salad,Customer Return,1,liters,10.62
-5273,2025-02-20,Salad,Expired,3,pieces,13.99
-1881,2025-03-18,Burger,Expired,9,pieces,6.96
-8355,2025-03-03,Salad,Expired,9,pieces,2.57
-6440,2025-02-07,Burger,Overcooked,7,liters,2.25
-3867,2025-02-19,Salad,Expired,14,pieces,5.19
-2055,2025-03-06,Pizza,Expired,16,pieces,7.64
+2090,2025-02-18,Burger,Overcooked,7,kg,11.99
+6215,2025-02-04,Pasta,Overcooked,17,liters,8.35
+9154,2025-04-11,Burger,Preparation Waste,18,liters,8.74
+4807,2025-04-13,Burger,Customer Return,2,liters,11.26
+3037,2025-03-03,Pasta,Customer Return,5,liters,10.45
+9766,2025-03-14,Soup,Preparation Waste,8,pieces,8.37
+5610,2025-02-25,Burger,Expired,6,pieces,14.99
+3055,2025-03-08,Pasta,Preparation Waste,10,liters,10.65
+6974,2025-01-19,Burger,Preparation Waste,1,kg,13.39
+3931,2025-02-11,Pasta,Preparation Waste,19,liters,4.24

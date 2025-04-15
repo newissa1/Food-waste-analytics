@@ -1,6 +1,12 @@
 import pandas as pd
 import random
 from faker import Faker
+import matplotlib.pyplot as plt
+import seaborn as sns
+import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
+
 
 fake = Faker()
 # Sample menu items
@@ -146,3 +152,73 @@ conn.commit()
 conn.close()
 
 print("✅ Data successfully stored in SQLite database (food_waste.db)!")
+
+#start working on cleaning the data
+
+# Load your dataset
+df = pd.read_csv("your_dataset.csv")
+
+#Check for missing values
+print(df.isnull().sum())
+
+# Handle missing values
+df['Quantity'] = df['Quantity'].fillna(0)
+
+# Check for duplicates
+print(f"Duplicates found: {df.duplicated().sum()}")
+
+# Drop duplicates
+df = df.drop_duplicates()
+
+# Inspect data types and convert if needed
+print(df.dtypes)
+
+
+
+# Exploratory Data Analysis (EDA)
+plt.figure(figsize=(10,5))
+df.groupby('Date')['Sales'].sum().plot()
+plt.title('Sales Over Time')
+plt.ylabel('Total Sales')
+plt.xlabel('Date')
+plt.grid(True)
+plt.show()
+
+
+#  Top 10 wasted items
+top_waste = df.groupby('Item')['Waste'].sum().sort_values(ascending=False).head(10)
+sns.barplot(x=top_waste.values, y=top_waste.index)
+plt.title("Top 10 Most Wasted Items")
+plt.xlabel("Waste Quantity")
+plt.ylabel("Item")
+plt.show()
+
+
+
+#  Stock levels by category
+sns.boxplot(x='Category', y='Stock', data=df)
+plt.title("Stock Levels by Category")
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+
+df = pd.read_csv("your_dataset.csv")
+df['Date'] = pd.to_datetime(df['Date'])
+
+st.title("Food Waste Analytics Dashboard")
+
+#  Total Sales Over Time
+st.subheader("Sales Over Time")
+sales = df.groupby('Date')['Sales'].sum()
+st.line_chart(sales)
+
+#  Top Wasted Items
+st.subheader("Top 10 Wasted Items")
+top_waste = df.groupby('Item')['Waste'].sum().sort_values(ascending=False).head(10)
+st.bar_chart(top_waste)
+
+# 📦 Stock Levels
+st.subheader("Stock Levels by Category")
+category_stock = df.groupby('Category')['Stock'].mean()
+st.bar_chart(category_stock)

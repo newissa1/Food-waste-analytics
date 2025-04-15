@@ -1,11 +1,11 @@
 item_id,item_name,category,stock_quantity,unit,cost_per_unit,supplier,last_restock_date
-7180,Cheese,Grains,86,kg,7.2,"Brown, Harris and Andersen",2025-01-02
-8249,Bread,Grains,98,pieces,8.4,Vasquez-Davila,2025-02-19
-8730,Lettuce,Grains,150,liters,5.56,"Smith, Lewis and Ford",2025-03-03
-1648,Bread,Dairy,153,pieces,9.69,Leach-Lewis,2025-03-04
-8649,Rice,Protein,182,pieces,3.59,Hunt-Rodriguez,2025-01-23
-2120,Tomatoes,Grains,59,liters,8.85,"Sanchez, Petersen and Marsh",2025-02-03
-2102,Pasta,Grains,66,liters,6.93,"Willis, Vasquez and Hernandez",2025-01-30
-4738,Tofu,Grains,161,pieces,1.66,Parker PLC,2025-02-18
-3207,Tomatoes,Dairy,27,liters,8.83,Fernandez-Lee,2025-02-28
-7992,Rice,Dairy,111,kg,2.19,"Mcconnell, Warren and Morris",2025-03-09
+7871,Pasta,Vegetables,25,kg,9.96,Ross-Miller,2025-03-26
+1003,Pasta,Dairy,150,kg,3.17,Patterson LLC,2025-03-28
+2196,Mushrooms,Grains,127,liters,2.88,Osborne-Curry,2025-01-18
+4733,Tomatoes,Dairy,24,kg,9.25,Lewis Group,2025-02-26
+6820,Tomatoes,Grains,71,pieces,2.77,"Davis, Hopkins and Owens",2025-01-17
+3614,Cheese,Vegetables,38,pieces,6.22,"Solis, Mccormick and Noble",2025-01-24
+1664,Lettuce,Grains,94,liters,6.32,Johnson LLC,2025-03-06
+4005,Rice,Grains,182,liters,5.12,Figueroa-Brown,2025-02-22
+9034,Cheese,Vegetables,163,kg,6.01,Moore-Bird,2025-01-04
+3038,Tofu,Vegetables,140,kg,7.74,"Diaz, Thompson and Williams",2025-03-22
