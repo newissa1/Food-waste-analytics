@@ -1,0 +1,501 @@
+sale_id,date,time,menu_item,category,quantity_sold,price_per_item,total_price,payment_method
+671501,2025-01-30,05:20:58,Pizza,Main Course,5,15.99,79.95,Cash
+473760,2025-01-30,02:34:07,Coffee,Beverage,4,3.99,15.96,Mobile Money
+560637,2025-02-16,13:42:22,Pasta,Main Course,2,12.99,25.98,Mobile Money
+371859,2025-01-12,09:43:46,Burger,Main Course,1,10.99,10.99,Cash
+831427,2025-01-23,05:34:32,Burger,Main Course,5,10.99,54.95,Card
+913467,2025-01-24,00:48:37,Pizza,Main Course,2,15.99,31.98,Card
+533310,2025-03-14,04:31:18,Burger,Main Course,4,10.99,43.96,Cash
+356413,2025-01-04,19:41:40,Coffee,Beverage,3,3.99,11.97,Mobile Money
+817754,2025-02-04,08:26:45,Salad,Starter,5,7.99,39.95,Cash
+916948,2025-01-23,08:15:07,Pizza,Main Course,2,15.99,31.98,Mobile Money
+166736,2025-03-08,18:04:06,Coffee,Beverage,3,3.99,11.97,Card
+197280,2025-03-12,11:26:18,Pasta,Main Course,4,12.99,51.96,Card
+419792,2025-03-18,11:52:31,Salad,Starter,5,7.99,39.95,Mobile Money
+557435,2025-03-12,15:21:07,Salad,Starter,3,7.99,23.97,Cash
+138598,2025-02-13,07:20:56,Pizza,Main Course,3,15.99,47.97,Card
+504936,2025-03-06,23:40:14,Pasta,Main Course,3,12.99,38.97,Mobile Money
+623450,2025-02-09,00:49:41,Coffee,Beverage,5,3.99,19.95,Cash
+631007,2025-01-10,01:58:51,Pasta,Main Course,4,12.99,51.96,Cash
+780415,2025-03-02,19:23:15,Salad,Starter,5,7.99,39.95,Cash
+575425,2025-02-28,10:36:37,Burger,Main Course,1,10.99,10.99,Cash
+546239,2025-01-14,15:49:11,Ice Cream,Dessert,5,5.99,29.95,Mobile Money
+165081,2025-02-25,12:52:19,Coffee,Beverage,5,3.99,19.95,Card
+493243,2025-03-19,18:43:55,Ice Cream,Dessert,2,5.99,11.98,Cash
+161145,2025-02-27,20:12:39,Ice Cream,Dessert,4,5.99,23.96,Cash
+948248,2025-02-28,09:32:55,Coffee,Beverage,3,3.99,11.97,Mobile Money
+209523,2025-02-11,20:30:44,Salad,Starter,4,7.99,31.96,Mobile Money
+881447,2025-02-19,11:42:58,Coffee,Beverage,5,3.99,19.95,Cash
+114108,2025-01-26,07:06:49,Pasta,Main Course,5,12.99,64.95,Mobile Money
+684783,2025-03-02,16:36:30,Coffee,Beverage,2,3.99,7.98,Mobile Money
+359734,2025-02-09,09:41:46,Pizza,Main Course,1,15.99,15.99,Mobile Money
+994738,2025-03-11,09:14:17,Pasta,Main Course,1,12.99,12.99,Cash
+821652,2025-01-17,17:10:38,Pasta,Main Course,4,12.99,51.96,Card
+481089,2025-01-05,04:21:03,Burger,Main Course,2,10.99,21.98,Cash
+322981,2025-01-12,08:06:34,Ice Cream,Dessert,1,5.99,5.99,Mobile Money
+126433,2025-01-25,16:40:13,Pasta,Main Course,5,12.99,64.95,Cash
+410433,2025-01-07,01:08:54,Pizza,Main Course,1,15.99,15.99,Cash
+674134,2025-02-22,05:42:20,Pizza,Main Course,4,15.99,63.96,Card
+491469,2025-03-14,07:30:39,Coffee,Beverage,1,3.99,3.99,Mobile Money
+321349,2025-03-21,22:58:16,Coffee,Beverage,5,3.99,19.95,Card
+186648,2025-02-11,00:38:53,Pasta,Main Course,5,12.99,64.95,Card
+863493,2025-02-10,02:52:59,Ice Cream,Dessert,1,5.99,5.99,Cash
+157446,2025-02-20,15:06:50,Coffee,Beverage,2,3.99,7.98,Card
+507573,2025-03-19,07:22:39,Salad,Starter,4,7.99,31.96,Mobile Money
+178629,2025-02-13,02:56:48,Coffee,Beverage,4,3.99,15.96,Cash
+673076,2025-02-01,18:06:17,Pizza,Main Course,3,15.99,47.97,Mobile Money
+809484,2025-01-15,20:31:43,Pizza,Main Course,2,15.99,31.98,Cash
+737813,2025-02-17,08:43:57,Salad,Starter,2,7.99,15.98,Cash
+147322,2025-03-11,01:05:47,Burger,Main Course,4,10.99,43.96,Card
+303874,2025-03-09,09:53:19,Salad,Starter,3,7.99,23.97,Cash
+931299,2025-02-05,11:50:35,Pizza,Main Course,2,15.99,31.98,Card
+235350,2025-02-19,08:12:00,Ice Cream,Dessert,3,5.99,17.97,Card
+225301,2025-01-15,20:07:44,Coffee,Beverage,1,3.99,3.99,Cash
+815760,2025-02-03,21:38:02,Salad,Starter,2,7.99,15.98,Card
+396536,2025-03-15,12:39:41,Ice Cream,Dessert,4,5.99,23.96,Cash
+976310,2025-02-28,06:06:15,Salad,Starter,4,7.99,31.96,Cash
+995205,2025-03-23,13:43:16,Pizza,Main Course,1,15.99,15.99,Cash
+708778,2025-01-13,14:06:15,Burger,Main Course,1,10.99,10.99,Card
+827729,2025-03-24,21:34:24,Pasta,Main Course,4,12.99,51.96,Cash
+689943,2025-03-03,16:59:22,Coffee,Beverage,5,3.99,19.95,Mobile Money
+422760,2025-02-03,21:08:35,Ice Cream,Dessert,1,5.99,5.99,Cash
+294112,2025-02-20,20:17:36,Ice Cream,Dessert,1,5.99,5.99,Cash
+638503,2025-01-24,07:56:51,Burger,Main Course,2,10.99,21.98,Mobile Money
+858217,2025-03-01,10:38:03,Pizza,Main Course,3,15.99,47.97,Card
+688696,2025-02-10,08:19:15,Coffee,Beverage,4,3.99,15.96,Cash
+910807,2025-03-04,20:41:13,Pasta,Main Course,3,12.99,38.97,Cash
+955788,2025-02-25,07:34:59,Pizza,Main Course,1,15.99,15.99,Cash
+974310,2025-01-08,11:52:49,Ice Cream,Dessert,5,5.99,29.95,Card
+733484,2025-01-06,18:57:30,Pizza,Main Course,3,15.99,47.97,Mobile Money
+956655,2025-03-15,00:50:10,Salad,Starter,3,7.99,23.97,Mobile Money
+900104,2025-02-05,16:41:26,Salad,Starter,3,7.99,23.97,Cash
+146624,2025-01-24,19:53:42,Ice Cream,Dessert,3,5.99,17.97,Card
+430608,2025-02-04,10:57:45,Salad,Starter,5,7.99,39.95,Cash
+540703,2025-02-10,06:03:20,Salad,Starter,5,7.99,39.95,Card
+883456,2025-01-07,15:41:43,Burger,Main Course,3,10.99,32.97,Cash
+666622,2025-02-25,17:05:14,Salad,Starter,5,7.99,39.95,Cash
+398514,2025-03-24,18:29:55,Salad,Starter,5,7.99,39.95,Card
+920624,2025-01-14,02:01:21,Pasta,Main Course,4,12.99,51.96,Cash
+178150,2025-01-22,22:21:35,Burger,Main Course,1,10.99,10.99,Card
+955337,2025-03-24,14:21:01,Salad,Starter,1,7.99,7.99,Mobile Money
+544721,2025-03-04,21:04:40,Burger,Main Course,2,10.99,21.98,Cash
+778530,2025-03-10,08:05:46,Salad,Starter,4,7.99,31.96,Card
+702762,2025-02-01,23:36:54,Burger,Main Course,2,10.99,21.98,Mobile Money
+756208,2025-02-14,22:17:09,Burger,Main Course,4,10.99,43.96,Mobile Money
+572047,2025-01-11,02:31:16,Coffee,Beverage,2,3.99,7.98,Card
+261753,2025-02-22,22:12:32,Coffee,Beverage,5,3.99,19.95,Mobile Money
+297166,2025-02-17,07:05:43,Pasta,Main Course,5,12.99,64.95,Cash
+480763,2025-03-25,07:26:02,Pasta,Main Course,5,12.99,64.95,Mobile Money
+728403,2025-03-03,02:50:16,Ice Cream,Dessert,3,5.99,17.97,Card
+758731,2025-03-20,10:10:26,Salad,Starter,1,7.99,7.99,Mobile Money
+102341,2025-01-19,01:36:32,Pizza,Main Course,5,15.99,79.95,Card
+441154,2025-01-19,11:27:58,Burger,Main Course,1,10.99,10.99,Mobile Money
+182446,2025-01-24,06:17:44,Ice Cream,Dessert,1,5.99,5.99,Cash
+852190,2025-03-19,20:41:36,Ice Cream,Dessert,2,5.99,11.98,Cash
+809711,2025-01-31,16:15:46,Coffee,Beverage,5,3.99,19.95,Mobile Money
+352514,2025-03-10,18:04:04,Ice Cream,Dessert,1,5.99,5.99,Mobile Money
+343219,2025-03-16,22:49:01,Salad,Starter,4,7.99,31.96,Cash
+325034,2025-03-20,15:59:22,Coffee,Beverage,4,3.99,15.96,Mobile Money
+282232,2025-03-15,09:56:44,Pizza,Main Course,2,15.99,31.98,Cash
+730351,2025-01-06,06:06:59,Salad,Starter,1,7.99,7.99,Mobile Money
+770470,2025-02-16,06:59:14,Pizza,Main Course,3,15.99,47.97,Cash
+760071,2025-03-03,09:43:00,Burger,Main Course,3,10.99,32.97,Card
+317421,2025-02-21,18:42:09,Salad,Starter,4,7.99,31.96,Mobile Money
+117429,2025-02-14,10:40:30,Salad,Starter,1,7.99,7.99,Card
+237971,2025-02-26,06:19:21,Salad,Starter,2,7.99,15.98,Mobile Money
+247448,2025-03-06,06:27:20,Pasta,Main Course,4,12.99,51.96,Cash
+899100,2025-03-08,05:47:09,Ice Cream,Dessert,3,5.99,17.97,Mobile Money
+229239,2025-03-11,02:20:09,Ice Cream,Dessert,4,5.99,23.96,Cash
+787460,2025-03-04,12:53:15,Pizza,Main Course,4,15.99,63.96,Cash
+910202,2025-01-17,02:56:56,Pizza,Main Course,4,15.99,63.96,Cash
+305760,2025-02-24,07:48:57,Coffee,Beverage,4,3.99,15.96,Mobile Money
+219197,2025-03-16,17:40:23,Salad,Starter,4,7.99,31.96,Cash
+922100,2025-02-25,02:56:14,Salad,Starter,3,7.99,23.97,Cash
+428614,2025-03-04,15:03:46,Pasta,Main Course,5,12.99,64.95,Card
+513662,2025-02-22,22:22:43,Coffee,Beverage,4,3.99,15.96,Card
+571007,2025-01-23,11:39:51,Coffee,Beverage,1,3.99,3.99,Card
+965529,2025-01-15,17:38:59,Coffee,Beverage,1,3.99,3.99,Mobile Money
+161469,2025-02-25,17:38:02,Coffee,Beverage,3,3.99,11.97,Card
+742291,2025-01-18,16:33:32,Burger,Main Course,1,10.99,10.99,Mobile Money
+276076,2025-02-23,09:08:35,Coffee,Beverage,2,3.99,7.98,Mobile Money
+834117,2025-03-17,00:45:46,Ice Cream,Dessert,4,5.99,23.96,Mobile Money
+952288,2025-01-29,11:15:12,Coffee,Beverage,1,3.99,3.99,Card
+795921,2025-03-12,23:27:46,Coffee,Beverage,4,3.99,15.96,Cash
+257778,2025-03-03,18:05:39,Pasta,Main Course,1,12.99,12.99,Mobile Money
+262432,2025-01-12,14:31:49,Pasta,Main Course,4,12.99,51.96,Mobile Money
+533945,2025-02-02,02:45:37,Burger,Main Course,5,10.99,54.95,Mobile Money
+221452,2025-01-09,16:43:06,Burger,Main Course,3,10.99,32.97,Cash
+421033,2025-03-03,13:27:48,Coffee,Beverage,3,3.99,11.97,Mobile Money
+679337,2025-01-03,17:37:18,Pizza,Main Course,5,15.99,79.95,Cash
+751804,2025-03-01,07:32:39,Ice Cream,Dessert,4,5.99,23.96,Card
+935962,2025-03-22,16:16:39,Pasta,Main Course,3,12.99,38.97,Card
+443110,2025-02-14,19:28:01,Ice Cream,Dessert,2,5.99,11.98,Mobile Money
+562372,2025-02-18,09:55:11,Pasta,Main Course,2,12.99,25.98,Card
+279694,2025-01-23,15:14:50,Pizza,Main Course,4,15.99,63.96,Card
+577047,2025-02-24,02:13:06,Coffee,Beverage,2,3.99,7.98,Card
+126206,2025-02-07,06:25:49,Pasta,Main Course,1,12.99,12.99,Mobile Money
+914493,2025-01-23,17:21:51,Pasta,Main Course,3,12.99,38.97,Mobile Money
+229432,2025-01-28,02:59:02,Salad,Starter,3,7.99,23.97,Card
+465459,2025-02-16,09:08:56,Coffee,Beverage,2,3.99,7.98,Cash
+878738,2025-02-25,02:46:09,Coffee,Beverage,1,3.99,3.99,Mobile Money
+811149,2025-02-03,01:36:20,Ice Cream,Dessert,5,5.99,29.95,Mobile Money
+156556,2025-02-25,20:40:42,Salad,Starter,4,7.99,31.96,Mobile Money
+844184,2025-01-01,23:29:04,Pasta,Main Course,3,12.99,38.97,Card
+603322,2025-01-24,14:32:23,Coffee,Beverage,4,3.99,15.96,Card
+304890,2025-02-19,04:42:15,Salad,Starter,2,7.99,15.98,Cash
+743923,2025-01-15,08:30:09,Salad,Starter,2,7.99,15.98,Mobile Money
+444266,2025-01-13,11:57:43,Pasta,Main Course,5,12.99,64.95,Mobile Money
+470352,2025-01-27,11:01:17,Pizza,Main Course,2,15.99,31.98,Card
+987960,2025-03-13,10:05:29,Ice Cream,Dessert,3,5.99,17.97,Card
+886183,2025-01-03,07:47:19,Ice Cream,Dessert,3,5.99,17.97,Cash
+132554,2025-01-17,17:08:22,Salad,Starter,1,7.99,7.99,Mobile Money
+961459,2025-03-19,15:17:29,Burger,Main Course,2,10.99,21.98,Mobile Money
+370010,2025-02-13,05:09:54,Burger,Main Course,3,10.99,32.97,Card
+547193,2025-02-20,06:15:10,Burger,Main Course,1,10.99,10.99,Mobile Money
+183297,2025-03-06,17:36:15,Salad,Starter,5,7.99,39.95,Card
+232096,2025-01-27,15:53:04,Burger,Main Course,3,10.99,32.97,Card
+250135,2025-02-02,07:01:06,Ice Cream,Dessert,4,5.99,23.96,Cash
+472058,2025-01-05,16:46:37,Coffee,Beverage,4,3.99,15.96,Mobile Money
+712070,2025-02-07,20:07:00,Pizza,Main Course,2,15.99,31.98,Card
+696488,2025-03-05,12:45:34,Coffee,Beverage,5,3.99,19.95,Mobile Money
+909056,2025-02-27,07:34:13,Pizza,Main Course,5,15.99,79.95,Cash
+926190,2025-02-12,09:46:38,Pizza,Main Course,1,15.99,15.99,Card
+658270,2025-01-24,04:56:06,Pasta,Main Course,2,12.99,25.98,Card
+502597,2025-03-05,07:48:18,Ice Cream,Dessert,3,5.99,17.97,Mobile Money
+123642,2025-03-09,16:38:00,Pizza,Main Course,1,15.99,15.99,Mobile Money
+843535,2025-01-28,04:00:10,Coffee,Beverage,5,3.99,19.95,Cash
+496651,2025-03-23,19:30:15,Salad,Starter,5,7.99,39.95,Card
+145260,2025-01-12,10:28:55,Salad,Starter,2,7.99,15.98,Mobile Money
+764911,2025-02-07,13:35:21,Pasta,Main Course,5,12.99,64.95,Mobile Money
+498531,2025-03-13,14:37:27,Coffee,Beverage,1,3.99,3.99,Mobile Money
+802174,2025-02-05,05:47:59,Pasta,Main Course,1,12.99,12.99,Mobile Money
+395707,2025-01-19,05:46:26,Ice Cream,Dessert,4,5.99,23.96,Mobile Money
+972297,2025-01-01,13:25:56,Coffee,Beverage,1,3.99,3.99,Mobile Money
+772398,2025-03-16,14:42:46,Burger,Main Course,1,10.99,10.99,Card
+811301,2025-02-04,16:32:39,Burger,Main Course,1,10.99,10.99,Card
+537147,2025-01-31,22:57:15,Pasta,Main Course,2,12.99,25.98,Mobile Money
+511691,2025-01-10,19:22:43,Salad,Starter,4,7.99,31.96,Cash
+388620,2025-01-14,05:40:26,Coffee,Beverage,1,3.99,3.99,Cash
+517906,2025-02-24,09:10:43,Salad,Starter,3,7.99,23.97,Cash
+133536,2025-01-27,02:25:06,Pasta,Main Course,4,12.99,51.96,Card
+372845,2025-02-08,19:14:20,Ice Cream,Dessert,3,5.99,17.97,Cash
+535253,2025-02-25,05:31:08,Pasta,Main Course,5,12.99,64.95,Cash
+756847,2025-03-03,21:50:56,Ice Cream,Dessert,5,5.99,29.95,Card
+194209,2025-02-24,02:36:41,Salad,Starter,5,7.99,39.95,Mobile Money
+545383,2025-02-26,23:31:35,Pizza,Main Course,2,15.99,31.98,Cash
+577624,2025-01-17,23:05:58,Salad,Starter,3,7.99,23.97,Card
+947979,2025-03-02,02:08:54,Coffee,Beverage,1,3.99,3.99,Cash
+519143,2025-01-15,00:53:09,Ice Cream,Dessert,4,5.99,23.96,Card
+441186,2025-01-17,01:21:49,Salad,Starter,1,7.99,7.99,Mobile Money
+253082,2025-02-22,08:59:59,Salad,Starter,3,7.99,23.97,Card
+209604,2025-02-05,09:53:01,Coffee,Beverage,4,3.99,15.96,Cash
+300823,2025-02-21,05:48:33,Ice Cream,Dessert,1,5.99,5.99,Mobile Money
+947405,2025-03-16,09:32:30,Burger,Main Course,1,10.99,10.99,Cash
+239484,2025-03-22,04:46:20,Burger,Main Course,5,10.99,54.95,Cash
+800009,2025-01-31,12:58:25,Pasta,Main Course,2,12.99,25.98,Card
+599721,2025-02-11,10:08:18,Pasta,Main Course,4,12.99,51.96,Card
+217012,2025-02-21,17:42:23,Pizza,Main Course,2,15.99,31.98,Cash
+214777,2025-02-05,01:20:54,Ice Cream,Dessert,3,5.99,17.97,Mobile Money
+831220,2025-02-22,21:26:30,Coffee,Beverage,2,3.99,7.98,Cash
+870869,2025-01-02,05:14:57,Burger,Main Course,5,10.99,54.95,Mobile Money
+242201,2025-02-01,05:51:04,Ice Cream,Dessert,1,5.99,5.99,Cash
+379155,2025-03-20,05:01:21,Burger,Main Course,1,10.99,10.99,Mobile Money
+354406,2025-02-05,19:59:56,Salad,Starter,5,7.99,39.95,Card
+331069,2025-02-21,11:54:08,Burger,Main Course,1,10.99,10.99,Card
+412520,2025-03-01,19:45:52,Ice Cream,Dessert,3,5.99,17.97,Cash
+358677,2025-03-18,16:42:50,Ice Cream,Dessert,5,5.99,29.95,Cash
+419295,2025-01-01,22:11:16,Salad,Starter,1,7.99,7.99,Cash
+866856,2025-02-05,12:31:19,Salad,Starter,2,7.99,15.98,Cash
+418220,2025-03-04,02:14:07,Pizza,Main Course,2,15.99,31.98,Card
+194220,2025-01-15,19:00:46,Ice Cream,Dessert,2,5.99,11.98,Mobile Money
+354794,2025-03-12,04:51:48,Ice Cream,Dessert,2,5.99,11.98,Card
+138267,2025-02-10,21:44:08,Coffee,Beverage,5,3.99,19.95,Cash
+654428,2025-02-27,21:38:59,Salad,Starter,4,7.99,31.96,Mobile Money
+125285,2025-03-11,10:24:23,Pasta,Main Course,3,12.99,38.97,Card
+654477,2025-01-21,18:41:12,Pizza,Main Course,4,15.99,63.96,Card
+300805,2025-02-07,04:14:16,Salad,Starter,1,7.99,7.99,Cash
+647949,2025-01-12,18:46:28,Burger,Main Course,4,10.99,43.96,Card
+996141,2025-01-10,05:08:56,Coffee,Beverage,5,3.99,19.95,Cash
+766252,2025-02-05,22:45:30,Coffee,Beverage,3,3.99,11.97,Card
+490736,2025-03-10,11:43:12,Coffee,Beverage,2,3.99,7.98,Cash
+674894,2025-03-13,04:34:59,Coffee,Beverage,2,3.99,7.98,Mobile Money
+639712,2025-03-10,04:27:44,Burger,Main Course,3,10.99,32.97,Mobile Money
+157399,2025-02-28,11:39:03,Pasta,Main Course,4,12.99,51.96,Mobile Money
+424769,2025-02-06,14:53:15,Coffee,Beverage,5,3.99,19.95,Card
+218963,2025-02-19,07:16:14,Burger,Main Course,3,10.99,32.97,Card
+947421,2025-01-16,01:52:47,Coffee,Beverage,2,3.99,7.98,Mobile Money
+781200,2025-03-18,08:07:23,Pizza,Main Course,1,15.99,15.99,Cash
+929991,2025-02-06,19:50:26,Coffee,Beverage,5,3.99,19.95,Cash
+877761,2025-01-12,02:00:04,Salad,Starter,1,7.99,7.99,Cash
+533606,2025-03-15,04:38:03,Burger,Main Course,5,10.99,54.95,Card
+690531,2025-01-28,14:37:07,Coffee,Beverage,5,3.99,19.95,Card
+656057,2025-03-10,18:14:39,Pasta,Main Course,3,12.99,38.97,Cash
+111387,2025-01-06,16:20:04,Burger,Main Course,1,10.99,10.99,Card
+454994,2025-03-05,00:16:42,Pasta,Main Course,1,12.99,12.99,Mobile Money
+611477,2025-01-29,15:16:23,Salad,Starter,2,7.99,15.98,Mobile Money
+751505,2025-01-06,20:46:25,Salad,Starter,3,7.99,23.97,Card
+389453,2025-02-21,17:12:00,Ice Cream,Dessert,1,5.99,5.99,Cash
+922644,2025-02-11,15:54:16,Ice Cream,Dessert,4,5.99,23.96,Cash
+264408,2025-03-09,10:35:24,Pizza,Main Course,2,15.99,31.98,Card
+895564,2025-03-17,05:20:22,Coffee,Beverage,5,3.99,19.95,Cash
+450377,2025-01-31,10:23:03,Pizza,Main Course,2,15.99,31.98,Cash
+262442,2025-01-17,14:44:13,Pizza,Main Course,3,15.99,47.97,Cash
+182837,2025-01-13,03:46:46,Ice Cream,Dessert,2,5.99,11.98,Cash
+160101,2025-01-22,13:05:42,Burger,Main Course,4,10.99,43.96,Cash
+305395,2025-01-05,16:01:04,Ice Cream,Dessert,4,5.99,23.96,Cash
+273196,2025-02-13,13:44:57,Burger,Main Course,5,10.99,54.95,Mobile Money
+791623,2025-01-04,10:00:09,Pizza,Main Course,1,15.99,15.99,Mobile Money
+281548,2025-01-02,10:39:12,Coffee,Beverage,4,3.99,15.96,Cash
+860197,2025-02-25,06:45:59,Salad,Starter,5,7.99,39.95,Card
+500860,2025-01-21,01:10:48,Ice Cream,Dessert,4,5.99,23.96,Cash
+883532,2025-03-15,20:25:58,Pasta,Main Course,5,12.99,64.95,Card
+665003,2025-01-08,05:52:59,Pizza,Main Course,1,15.99,15.99,Mobile Money
+550761,2025-02-13,20:05:24,Ice Cream,Dessert,3,5.99,17.97,Cash
+241976,2025-02-03,07:36:38,Ice Cream,Dessert,3,5.99,17.97,Card
+627788,2025-02-15,06:28:43,Burger,Main Course,4,10.99,43.96,Mobile Money
+301977,2025-02-27,12:48:42,Salad,Starter,4,7.99,31.96,Card
+242035,2025-02-04,09:22:07,Coffee,Beverage,1,3.99,3.99,Card
+529094,2025-01-15,22:50:56,Burger,Main Course,2,10.99,21.98,Card
+541069,2025-03-17,17:54:44,Pasta,Main Course,1,12.99,12.99,Cash
+820696,2025-02-22,05:43:07,Ice Cream,Dessert,1,5.99,5.99,Cash
+198025,2025-03-21,17:09:42,Ice Cream,Dessert,3,5.99,17.97,Cash
+410768,2025-01-31,19:58:34,Pizza,Main Course,2,15.99,31.98,Cash
+326681,2025-01-07,00:08:41,Pasta,Main Course,1,12.99,12.99,Card
+421847,2025-02-17,18:20:45,Coffee,Beverage,2,3.99,7.98,Card
+570031,2025-03-10,22:11:29,Pizza,Main Course,4,15.99,63.96,Mobile Money
+690275,2025-03-21,21:30:24,Coffee,Beverage,3,3.99,11.97,Card
+136357,2025-03-03,11:01:26,Salad,Starter,3,7.99,23.97,Card
+118596,2025-01-28,14:31:34,Pizza,Main Course,2,15.99,31.98,Card
+907137,2025-01-26,22:19:05,Burger,Main Course,5,10.99,54.95,Cash
+487507,2025-02-04,10:58:19,Pizza,Main Course,2,15.99,31.98,Mobile Money
+384281,2025-01-21,22:20:23,Burger,Main Course,5,10.99,54.95,Card
+143792,2025-03-19,00:44:46,Ice Cream,Dessert,1,5.99,5.99,Card
+691785,2025-02-03,09:31:13,Ice Cream,Dessert,3,5.99,17.97,Card
+443187,2025-03-07,21:56:39,Coffee,Beverage,1,3.99,3.99,Mobile Money
+550262,2025-02-15,20:23:21,Pasta,Main Course,5,12.99,64.95,Cash
+571720,2025-01-12,22:26:07,Pizza,Main Course,1,15.99,15.99,Cash
+246943,2025-01-13,05:58:56,Burger,Main Course,1,10.99,10.99,Mobile Money
+264790,2025-02-21,19:31:18,Ice Cream,Dessert,3,5.99,17.97,Mobile Money
+379213,2025-01-26,09:35:48,Pizza,Main Course,1,15.99,15.99,Cash
+662112,2025-01-15,22:48:15,Ice Cream,Dessert,1,5.99,5.99,Mobile Money
+191666,2025-01-06,10:46:38,Pizza,Main Course,4,15.99,63.96,Mobile Money
+987291,2025-01-21,03:03:41,Ice Cream,Dessert,4,5.99,23.96,Mobile Money
+646362,2025-03-17,06:23:57,Ice Cream,Dessert,5,5.99,29.95,Card
+342151,2025-01-22,07:02:42,Ice Cream,Dessert,2,5.99,11.98,Card
+334306,2025-03-23,12:05:59,Salad,Starter,2,7.99,15.98,Mobile Money
+574377,2025-03-19,19:21:26,Coffee,Beverage,3,3.99,11.97,Card
+793647,2025-01-06,18:40:15,Coffee,Beverage,1,3.99,3.99,Card
+610102,2025-03-05,03:33:09,Pasta,Main Course,4,12.99,51.96,Cash
+215347,2025-02-03,20:50:26,Ice Cream,Dessert,2,5.99,11.98,Cash
+565330,2025-02-07,23:34:36,Pasta,Main Course,1,12.99,12.99,Cash
+867894,2025-03-06,01:10:36,Salad,Starter,5,7.99,39.95,Card
+582808,2025-03-07,05:29:13,Coffee,Beverage,5,3.99,19.95,Mobile Money
+732354,2025-01-03,13:35:35,Coffee,Beverage,3,3.99,11.97,Cash
+264309,2025-01-06,04:26:47,Pasta,Main Course,1,12.99,12.99,Card
+942043,2025-02-03,13:17:22,Pasta,Main Course,1,12.99,12.99,Cash
+791767,2025-03-22,11:20:10,Burger,Main Course,1,10.99,10.99,Card
+695866,2025-02-10,10:21:45,Ice Cream,Dessert,2,5.99,11.98,Card
+129633,2025-01-23,00:50:48,Salad,Starter,2,7.99,15.98,Cash
+270388,2025-01-29,02:29:32,Pizza,Main Course,3,15.99,47.97,Cash
+192424,2025-02-17,19:20:57,Salad,Starter,4,7.99,31.96,Mobile Money
+101602,2025-02-27,14:34:35,Pasta,Main Course,4,12.99,51.96,Cash
+308580,2025-02-18,11:07:07,Salad,Starter,3,7.99,23.97,Mobile Money
+584316,2025-02-19,06:38:08,Salad,Starter,5,7.99,39.95,Card
+826928,2025-01-12,02:22:49,Burger,Main Course,2,10.99,21.98,Card
+107936,2025-02-06,06:53:17,Pizza,Main Course,1,15.99,15.99,Card
+389766,2025-02-20,09:45:12,Burger,Main Course,2,10.99,21.98,Card
+228075,2025-01-01,21:48:20,Ice Cream,Dessert,1,5.99,5.99,Cash
+957369,2025-03-22,17:51:05,Pizza,Main Course,5,15.99,79.95,Card
+428872,2025-03-13,00:01:20,Pasta,Main Course,2,12.99,25.98,Card
+174157,2025-01-11,03:32:23,Coffee,Beverage,2,3.99,7.98,Card
+152676,2025-01-22,18:00:16,Pasta,Main Course,5,12.99,64.95,Mobile Money
+431284,2025-03-12,02:19:21,Burger,Main Course,2,10.99,21.98,Card
+344983,2025-01-07,14:11:42,Salad,Starter,1,7.99,7.99,Mobile Money
+561810,2025-01-16,09:48:38,Burger,Main Course,3,10.99,32.97,Mobile Money
+114150,2025-03-20,05:02:45,Pizza,Main Course,3,15.99,47.97,Cash
+659136,2025-03-18,04:26:15,Coffee,Beverage,1,3.99,3.99,Cash
+238500,2025-02-10,10:10:40,Pizza,Main Course,5,15.99,79.95,Mobile Money
+203414,2025-01-23,05:14:05,Ice Cream,Dessert,5,5.99,29.95,Mobile Money
+108017,2025-02-25,19:20:47,Coffee,Beverage,3,3.99,11.97,Card
+221938,2025-03-11,04:36:52,Salad,Starter,3,7.99,23.97,Cash
+872847,2025-02-04,04:53:40,Burger,Main Course,4,10.99,43.96,Mobile Money
+603914,2025-03-21,10:07:03,Pizza,Main Course,4,15.99,63.96,Mobile Money
+273187,2025-01-22,21:17:19,Burger,Main Course,2,10.99,21.98,Mobile Money
+757474,2025-02-25,20:25:59,Ice Cream,Dessert,5,5.99,29.95,Mobile Money
+638374,2025-01-14,15:01:16,Burger,Main Course,2,10.99,21.98,Cash
+662164,2025-02-14,19:57:12,Salad,Starter,2,7.99,15.98,Mobile Money
+429004,2025-03-14,03:36:28,Pizza,Main Course,3,15.99,47.97,Card
+986040,2025-01-06,21:56:43,Burger,Main Course,3,10.99,32.97,Card
+508822,2025-01-15,13:45:34,Pizza,Main Course,5,15.99,79.95,Cash
+750806,2025-02-27,01:19:29,Ice Cream,Dessert,4,5.99,23.96,Mobile Money
+131254,2025-03-11,06:52:15,Coffee,Beverage,5,3.99,19.95,Cash
+897933,2025-01-07,16:51:50,Pizza,Main Course,5,15.99,79.95,Card
+776804,2025-01-12,04:38:00,Pizza,Main Course,4,15.99,63.96,Card
+182428,2025-02-14,16:52:44,Pasta,Main Course,4,12.99,51.96,Mobile Money
+155931,2025-02-15,00:17:11,Pizza,Main Course,2,15.99,31.98,Card
+668824,2025-02-26,12:23:14,Pizza,Main Course,1,15.99,15.99,Card
+293959,2025-03-20,18:10:13,Burger,Main Course,3,10.99,32.97,Mobile Money
+273422,2025-02-23,23:48:49,Burger,Main Course,1,10.99,10.99,Mobile Money
+632610,2025-03-15,05:52:13,Pizza,Main Course,3,15.99,47.97,Card
+397509,2025-02-09,05:20:04,Salad,Starter,3,7.99,23.97,Cash
+792776,2025-03-16,21:35:56,Ice Cream,Dessert,5,5.99,29.95,Cash
+373146,2025-02-19,10:14:46,Pasta,Main Course,2,12.99,25.98,Mobile Money
+961092,2025-03-12,05:01:07,Burger,Main Course,2,10.99,21.98,Cash
+861176,2025-01-18,14:37:18,Pizza,Main Course,5,15.99,79.95,Cash
+332917,2025-01-06,22:57:44,Burger,Main Course,3,10.99,32.97,Mobile Money
+236887,2025-02-07,10:06:06,Burger,Main Course,1,10.99,10.99,Cash
+177297,2025-01-30,12:49:33,Burger,Main Course,4,10.99,43.96,Card
+416707,2025-02-19,01:02:06,Pizza,Main Course,3,15.99,47.97,Cash
+798295,2025-01-15,23:19:35,Burger,Main Course,5,10.99,54.95,Mobile Money
+279926,2025-01-02,10:59:37,Pasta,Main Course,5,12.99,64.95,Card
+367926,2025-02-08,23:53:22,Pizza,Main Course,4,15.99,63.96,Card
+917543,2025-02-17,10:28:16,Burger,Main Course,3,10.99,32.97,Card
+787634,2025-01-06,20:54:08,Pizza,Main Course,4,15.99,63.96,Card
+302196,2025-01-27,04:54:15,Pizza,Main Course,2,15.99,31.98,Cash
+870265,2025-03-06,20:52:33,Salad,Starter,3,7.99,23.97,Cash
+677214,2025-02-21,05:05:42,Burger,Main Course,5,10.99,54.95,Cash
+594958,2025-01-22,21:12:53,Pasta,Main Course,3,12.99,38.97,Cash
+785932,2025-03-24,20:54:43,Pizza,Main Course,1,15.99,15.99,Card
+981256,2025-03-17,20:53:15,Coffee,Beverage,2,3.99,7.98,Card
+961652,2025-03-11,14:58:11,Pasta,Main Course,5,12.99,64.95,Card
+684044,2025-01-04,03:45:30,Burger,Main Course,3,10.99,32.97,Cash
+371925,2025-03-07,22:11:24,Ice Cream,Dessert,3,5.99,17.97,Mobile Money
+300271,2025-02-16,12:07:57,Coffee,Beverage,2,3.99,7.98,Mobile Money
+997894,2025-03-17,03:19:47,Salad,Starter,5,7.99,39.95,Cash
+354809,2025-02-04,05:24:12,Coffee,Beverage,5,3.99,19.95,Card
+514253,2025-03-25,05:44:30,Coffee,Beverage,4,3.99,15.96,Mobile Money
+692712,2025-01-05,13:01:56,Coffee,Beverage,2,3.99,7.98,Cash
+665856,2025-03-08,02:23:17,Pasta,Main Course,4,12.99,51.96,Mobile Money
+806054,2025-03-03,00:35:06,Pasta,Main Course,3,12.99,38.97,Cash
+526700,2025-01-22,13:28:25,Salad,Starter,4,7.99,31.96,Cash
+251260,2025-01-04,11:49:52,Pasta,Main Course,5,12.99,64.95,Mobile Money
+679333,2025-03-17,22:09:24,Pasta,Main Course,5,12.99,64.95,Mobile Money
+575375,2025-03-05,08:58:08,Ice Cream,Dessert,5,5.99,29.95,Mobile Money
+843113,2025-03-24,08:36:01,Salad,Starter,1,7.99,7.99,Mobile Money
+530926,2025-03-11,04:47:13,Salad,Starter,1,7.99,7.99,Card
+121006,2025-01-27,15:21:14,Burger,Main Course,3,10.99,32.97,Cash
+398060,2025-02-26,07:39:43,Pasta,Main Course,2,12.99,25.98,Cash
+798781,2025-02-13,14:23:57,Coffee,Beverage,1,3.99,3.99,Card
+435448,2025-02-09,09:24:55,Burger,Main Course,1,10.99,10.99,Mobile Money
+800751,2025-03-19,02:16:43,Burger,Main Course,4,10.99,43.96,Mobile Money
+480329,2025-01-02,00:09:56,Ice Cream,Dessert,3,5.99,17.97,Card
+347890,2025-03-04,16:44:47,Ice Cream,Dessert,2,5.99,11.98,Cash
+997536,2025-01-05,16:34:08,Burger,Main Course,4,10.99,43.96,Mobile Money
+256855,2025-01-29,20:41:23,Burger,Main Course,5,10.99,54.95,Cash
+257869,2025-03-03,13:24:41,Coffee,Beverage,1,3.99,3.99,Card
+350681,2025-02-25,00:57:58,Ice Cream,Dessert,5,5.99,29.95,Mobile Money
+283834,2025-03-24,14:28:45,Ice Cream,Dessert,1,5.99,5.99,Card
+324758,2025-02-18,03:05:43,Pasta,Main Course,4,12.99,51.96,Cash
+612470,2025-03-19,17:07:30,Coffee,Beverage,3,3.99,11.97,Cash
+925800,2025-02-16,18:09:45,Coffee,Beverage,5,3.99,19.95,Card
+672714,2025-02-21,00:29:32,Coffee,Beverage,2,3.99,7.98,Card
+660829,2025-01-29,18:08:19,Burger,Main Course,4,10.99,43.96,Card
+735359,2025-03-12,18:23:03,Coffee,Beverage,4,3.99,15.96,Card
+313018,2025-02-28,02:26:08,Pizza,Main Course,2,15.99,31.98,Cash
+814649,2025-03-03,23:40:16,Salad,Starter,4,7.99,31.96,Mobile Money
+305865,2025-03-01,19:29:20,Coffee,Beverage,4,3.99,15.96,Mobile Money
+436947,2025-03-20,18:49:31,Pizza,Main Course,1,15.99,15.99,Cash
+857235,2025-01-18,16:55:56,Burger,Main Course,1,10.99,10.99,Cash
+529362,2025-01-27,08:20:02,Pasta,Main Course,2,12.99,25.98,Mobile Money
+317640,2025-03-09,05:35:12,Pasta,Main Course,2,12.99,25.98,Card
+749762,2025-03-23,02:39:57,Ice Cream,Dessert,4,5.99,23.96,Cash
+554948,2025-02-27,22:15:35,Burger,Main Course,4,10.99,43.96,Cash
+108929,2025-02-25,08:41:06,Ice Cream,Dessert,5,5.99,29.95,Card
+468771,2025-01-07,15:06:26,Ice Cream,Dessert,3,5.99,17.97,Card
+617425,2025-03-19,03:41:08,Pasta,Main Course,4,12.99,51.96,Cash
+974187,2025-01-10,01:10:21,Ice Cream,Dessert,1,5.99,5.99,Cash
+110390,2025-01-13,22:04:34,Pizza,Main Course,3,15.99,47.97,Mobile Money
+199958,2025-02-02,14:38:09,Pasta,Main Course,2,12.99,25.98,Cash
+144402,2025-02-18,18:07:00,Pizza,Main Course,1,15.99,15.99,Card
+891043,2025-02-06,06:48:03,Burger,Main Course,1,10.99,10.99,Mobile Money
+212938,2025-02-03,18:34:27,Ice Cream,Dessert,1,5.99,5.99,Cash
+876431,2025-01-26,08:54:23,Coffee,Beverage,5,3.99,19.95,Mobile Money
+176053,2025-01-14,23:41:44,Ice Cream,Dessert,1,5.99,5.99,Mobile Money
+640871,2025-01-12,13:42:25,Ice Cream,Dessert,2,5.99,11.98,Mobile Money
+272532,2025-02-19,05:57:05,Salad,Starter,5,7.99,39.95,Cash
+535626,2025-01-31,15:39:03,Ice Cream,Dessert,2,5.99,11.98,Cash
+237406,2025-03-18,01:39:44,Ice Cream,Dessert,3,5.99,17.97,Mobile Money
+428071,2025-01-22,09:57:17,Salad,Starter,4,7.99,31.96,Cash
+902963,2025-03-12,22:12:08,Ice Cream,Dessert,3,5.99,17.97,Cash
+171178,2025-02-03,16:36:42,Pizza,Main Course,3,15.99,47.97,Card
+735785,2025-02-23,07:21:57,Salad,Starter,1,7.99,7.99,Card
+446198,2025-02-15,13:35:49,Ice Cream,Dessert,4,5.99,23.96,Card
+825784,2025-02-26,06:07:19,Salad,Starter,1,7.99,7.99,Card
+510724,2025-02-18,16:39:09,Ice Cream,Dessert,5,5.99,29.95,Mobile Money
+670607,2025-02-23,21:26:02,Coffee,Beverage,3,3.99,11.97,Card
+670594,2025-01-08,01:04:11,Burger,Main Course,2,10.99,21.98,Cash
+941349,2025-01-15,12:31:46,Salad,Starter,2,7.99,15.98,Card
+888121,2025-02-25,21:03:46,Ice Cream,Dessert,2,5.99,11.98,Mobile Money
+648931,2025-01-14,08:42:58,Pizza,Main Course,4,15.99,63.96,Mobile Money
+104306,2025-03-07,02:49:28,Salad,Starter,5,7.99,39.95,Cash
+937571,2025-03-19,12:28:19,Pizza,Main Course,5,15.99,79.95,Mobile Money
+522842,2025-02-18,17:45:13,Ice Cream,Dessert,1,5.99,5.99,Cash
+618878,2025-01-12,03:22:21,Burger,Main Course,2,10.99,21.98,Card
+676647,2025-03-14,13:53:02,Coffee,Beverage,3,3.99,11.97,Card
+592412,2025-03-23,23:16:23,Burger,Main Course,4,10.99,43.96,Card
+402659,2025-01-26,09:41:41,Salad,Starter,2,7.99,15.98,Mobile Money
+958983,2025-02-16,19:40:43,Pizza,Main Course,4,15.99,63.96,Mobile Money
+858307,2025-03-12,08:39:27,Salad,Starter,5,7.99,39.95,Mobile Money
+296070,2025-03-17,20:03:40,Coffee,Beverage,3,3.99,11.97,Card
+632508,2025-02-24,23:13:10,Coffee,Beverage,3,3.99,11.97,Mobile Money
+173099,2025-03-18,12:17:45,Pizza,Main Course,4,15.99,63.96,Mobile Money
+408254,2025-01-01,20:10:37,Ice Cream,Dessert,5,5.99,29.95,Cash
+598205,2025-03-23,09:58:51,Pasta,Main Course,4,12.99,51.96,Card
+709227,2025-03-12,17:22:09,Burger,Main Course,3,10.99,32.97,Card
+195679,2025-02-28,14:57:22,Coffee,Beverage,1,3.99,3.99,Mobile Money
+345194,2025-03-10,10:21:16,Burger,Main Course,3,10.99,32.97,Mobile Money
+624168,2025-01-30,07:41:48,Coffee,Beverage,2,3.99,7.98,Mobile Money
+282677,2025-01-30,09:42:42,Coffee,Beverage,3,3.99,11.97,Cash
+907413,2025-03-03,03:21:41,Coffee,Beverage,2,3.99,7.98,Card
+315564,2025-03-02,03:46:36,Coffee,Beverage,5,3.99,19.95,Card
+327437,2025-01-08,12:35:58,Ice Cream,Dessert,4,5.99,23.96,Card
+892027,2025-01-24,12:49:47,Coffee,Beverage,1,3.99,3.99,Card
+873085,2025-03-17,17:59:53,Pasta,Main Course,3,12.99,38.97,Card
+660330,2025-01-10,10:24:12,Ice Cream,Dessert,3,5.99,17.97,Cash
+174102,2025-02-13,17:01:33,Pasta,Main Course,1,12.99,12.99,Mobile Money
+203481,2025-02-07,15:27:56,Pasta,Main Course,1,12.99,12.99,Mobile Money
+284816,2025-02-10,23:26:45,Coffee,Beverage,3,3.99,11.97,Mobile Money
+709553,2025-01-08,16:44:25,Pizza,Main Course,5,15.99,79.95,Card
+772856,2025-01-09,17:29:10,Pizza,Main Course,3,15.99,47.97,Cash
+926763,2025-02-18,17:15:00,Salad,Starter,4,7.99,31.96,Cash
+735455,2025-01-09,02:53:11,Burger,Main Course,3,10.99,32.97,Mobile Money
+407706,2025-02-05,21:33:59,Burger,Main Course,5,10.99,54.95,Cash
+503594,2025-01-29,00:26:34,Pasta,Main Course,1,12.99,12.99,Card
+183564,2025-01-25,18:41:35,Ice Cream,Dessert,5,5.99,29.95,Cash
+896678,2025-01-05,01:01:27,Salad,Starter,5,7.99,39.95,Mobile Money
+963592,2025-01-31,07:10:18,Ice Cream,Dessert,4,5.99,23.96,Cash
+415665,2025-01-31,14:37:25,Pizza,Main Course,2,15.99,31.98,Mobile Money
+950824,2025-01-26,04:14:03,Coffee,Beverage,5,3.99,19.95,Card
+715420,2025-01-08,20:33:03,Burger,Main Course,4,10.99,43.96,Cash
+802986,2025-01-07,12:35:57,Burger,Main Course,1,10.99,10.99,Mobile Money
+680433,2025-01-14,20:54:01,Ice Cream,Dessert,4,5.99,23.96,Card
+953685,2025-01-14,03:50:39,Pizza,Main Course,2,15.99,31.98,Card
+913436,2025-03-06,14:46:10,Pizza,Main Course,3,15.99,47.97,Cash
+233671,2025-02-28,06:39:25,Burger,Main Course,4,10.99,43.96,Mobile Money
+951525,2025-01-18,06:16:32,Coffee,Beverage,4,3.99,15.96,Mobile Money
+242452,2025-01-12,01:56:05,Pasta,Main Course,3,12.99,38.97,Mobile Money
+977040,2025-01-22,13:00:22,Burger,Main Course,1,10.99,10.99,Mobile Money
+162211,2025-01-17,03:58:06,Coffee,Beverage,4,3.99,15.96,Cash
+681289,2025-02-03,05:36:40,Ice Cream,Dessert,5,5.99,29.95,Cash
+422167,2025-01-26,12:15:42,Pasta,Main Course,1,12.99,12.99,Card
+979861,2025-02-04,03:40:15,Salad,Starter,2,7.99,15.98,Mobile Money
+725870,2025-03-16,22:30:46,Burger,Main Course,2,10.99,21.98,Cash
+742167,2025-02-26,00:54:59,Coffee,Beverage,3,3.99,11.97,Card
+606517,2025-03-17,21:37:14,Coffee,Beverage,2,3.99,7.98,Card
+303088,2025-02-27,16:24:36,Pasta,Main Course,2,12.99,25.98,Mobile Money
+605149,2025-02-13,11:18:38,Salad,Starter,3,7.99,23.97,Mobile Money
+253799,2025-01-05,19:17:04,Salad,Starter,2,7.99,15.98,Mobile Money
+547421,2025-02-03,16:33:41,Ice Cream,Dessert,5,5.99,29.95,Card
+723722,2025-01-16,01:33:26,Salad,Starter,2,7.99,15.98,Cash
+704156,2025-02-27,23:39:55,Pizza,Main Course,1,15.99,15.99,Card
+374745,2025-01-16,15:01:02,Coffee,Beverage,4,3.99,15.96,Cash
+434618,2025-02-06,09:39:34,Salad,Starter,2,7.99,15.98,Mobile Money
+708154,2025-02-05,19:41:15,Salad,Starter,4,7.99,31.96,Card
+426884,2025-02-25,05:06:27,Salad,Starter,3,7.99,23.97,Cash
+860559,2025-02-23,21:42:57,Pizza,Main Course,2,15.99,31.98,Cash
+343763,2025-03-04,22:16:18,Pasta,Main Course,1,12.99,12.99,Mobile Money
+338305,2025-01-30,09:31:13,Salad,Starter,1,7.99,7.99,Mobile Money
+912337,2025-01-25,01:41:53,Pizza,Main Course,2,15.99,31.98,Card
+545992,2025-01-27,03:30:32,Pizza,Main Course,1,15.99,15.99,Cash
+264651,2025-02-03,11:47:45,Salad,Starter,5,7.99,39.95,Mobile Money
+876206,2025-01-01,06:48:48,Pasta,Main Course,2,12.99,25.98,Mobile Money

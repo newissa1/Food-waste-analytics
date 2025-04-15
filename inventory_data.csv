@@ -1,0 +1,11 @@
+item_id,item_name,category,stock_quantity,unit,cost_per_unit,supplier,last_restock_date
+7180,Cheese,Grains,86,kg,7.2,"Brown, Harris and Andersen",2025-01-02
+8249,Bread,Grains,98,pieces,8.4,Vasquez-Davila,2025-02-19
+8730,Lettuce,Grains,150,liters,5.56,"Smith, Lewis and Ford",2025-03-03
+1648,Bread,Dairy,153,pieces,9.69,Leach-Lewis,2025-03-04
+8649,Rice,Protein,182,pieces,3.59,Hunt-Rodriguez,2025-01-23
+2120,Tomatoes,Grains,59,liters,8.85,"Sanchez, Petersen and Marsh",2025-02-03
+2102,Pasta,Grains,66,liters,6.93,"Willis, Vasquez and Hernandez",2025-01-30
+4738,Tofu,Grains,161,pieces,1.66,Parker PLC,2025-02-18
+3207,Tomatoes,Dairy,27,liters,8.83,Fernandez-Lee,2025-02-28
+7992,Rice,Dairy,111,kg,2.19,"Mcconnell, Warren and Morris",2025-03-09
