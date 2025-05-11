@@ -1,11 +1,11 @@
 item_id,item_name,category,stock_quantity,unit,cost_per_unit,supplier,last_restock_date
-7871,Pasta,Vegetables,25,kg,9.96,Ross-Miller,2025-03-26
-1003,Pasta,Dairy,150,kg,3.17,Patterson LLC,2025-03-28
-2196,Mushrooms,Grains,127,liters,2.88,Osborne-Curry,2025-01-18
-4733,Tomatoes,Dairy,24,kg,9.25,Lewis Group,2025-02-26
-6820,Tomatoes,Grains,71,pieces,2.77,"Davis, Hopkins and Owens",2025-01-17
-3614,Cheese,Vegetables,38,pieces,6.22,"Solis, Mccormick and Noble",2025-01-24
-1664,Lettuce,Grains,94,liters,6.32,Johnson LLC,2025-03-06
-4005,Rice,Grains,182,liters,5.12,Figueroa-Brown,2025-02-22
-9034,Cheese,Vegetables,163,kg,6.01,Moore-Bird,2025-01-04
-3038,Tofu,Vegetables,140,kg,7.74,"Diaz, Thompson and Williams",2025-03-22
+2127,Tofu,Protein,130,kg,6.28,"Smith, Gates and Mcclure",2025-03-16
+3349,Rice,Protein,29,liters,6.74,Adams-Gray,2025-04-16
+3156,Bread,Dairy,189,pieces,9.56,Ayala PLC,2025-04-08
+8953,Cheese,Grains,75,liters,8.05,English-Johnson,2025-02-01
+8813,Tomatoes,Dairy,125,liters,8.49,Escobar PLC,2025-01-20
+2718,Tomatoes,Grains,178,pieces,2.12,"Hancock, Phillips and Mclaughlin",2025-01-27
+7651,Tomatoes,Grains,20,kg,7.6,Garcia-Graham,2025-04-22
+2916,Lettuce,Protein,103,pieces,7.88,"Maldonado, Fry and Willis",2025-05-02
+2765,Lettuce,Grains,131,liters,7.05,Madden-Larsen,2025-01-14
+4691,Pasta,Vegetables,34,liters,3.42,Brown-Thomas,2025-04-22
